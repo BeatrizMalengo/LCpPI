@@ -71,7 +71,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:BeatrizMalengo/LCpPI.git
 
 # Acesse a pasta do projeto no VSCode
-$ git cd LCpPI
+$ cd LCpPI
 
 # Abra o arquivo ecommerce.js
 
